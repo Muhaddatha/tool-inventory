@@ -1,0 +1,12 @@
+*****************************************************************
+Operation: adding record (2, saw, 4, 10)
+Unsorted array comparisons: 0
+Unsorted linked list comparisons: 0
+Sorted linked list comparisons : 1
+
+*****************************************************************
+Operation: adding record (5, hammer, 8, 9)
+Unsorted array comparisons: 1
+Unsorted linked list comparisons: 0
+Sorted linked list comparisons : 1
+
